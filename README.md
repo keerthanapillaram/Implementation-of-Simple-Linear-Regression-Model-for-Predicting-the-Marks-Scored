@@ -28,7 +28,6 @@ Program to implement the simple linear regression model for predicting the marks
 Developed by: Keerthana P 
 Register Number: 212223240069  
 */
-```
 import numpy as np
 import pandas as pd
 from sklearn.metrics import mean_absolute_error,mean_squared_error
